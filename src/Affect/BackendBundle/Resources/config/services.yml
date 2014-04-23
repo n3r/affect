@@ -1,0 +1,7 @@
+parameters:
+#    affect_backend.example.class: Affect\BackendBundle\Example
+
+services:
+#    affect_backend.example:
+#        class: %affect_backend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

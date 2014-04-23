@@ -1,0 +1,3 @@
+affect_backend_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: AffectBackendBundle:Default:index }

@@ -1,0 +1,7 @@
+parameters:
+#    affect_system.example.class: Affect\SystemBundle\Example
+
+services:
+#    affect_system.example:
+#        class: %affect_system.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
